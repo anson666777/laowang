@@ -1,0 +1,6 @@
+framework module Pods_XZLP_XZLPUITests {
+  umbrella header "Pods-XZLP-XZLPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
